@@ -74,12 +74,13 @@ Notebook 名称：`PT_Part2_Music_Generation.ipynb`
 ## ✉️ 提交方式
 
 通过 **GitHub Classroom** 自动生成的个人仓库提交以下文件：
-📁 /MusicGeneration_YourName/
-├── report.pdf
-├── PT_Part2_Music_Generation.ipynb
-├── music_v1.mid
-├── music_v2.mid
-└── screenshots/
-├── loss_curve.png
-└── generation_result.png
+
+- MusicGeneration_YourName/
+  - report.pdf  
+  - PT_Part2_Music_Generation.ipynb  
+  - music_v1.mid  
+  - music_v2.mid  
+  - screenshots/
+    - loss_curve.png  
+    - generation_result.png
 
